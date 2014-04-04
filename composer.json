@@ -1,0 +1,13 @@
+{
+    "name": "koluchiy/somelib",
+    "description": "Some lib",
+    "authors": [
+        {
+            "name": "Koluchiy Koluchiy",
+            "email": "koluchiy@koluchiy.ru"
+        }
+    ],
+    "require": {
+
+    }
+}
