@@ -1,4 +1,5 @@
 {
+    "minimum-stability": "dev",
     "name": "koluchiy/somelib",
     "description": "Some lib",
     "authors": [
