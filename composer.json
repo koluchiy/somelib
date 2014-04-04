@@ -9,6 +9,10 @@
         }
     ],
     "version" : "1.1.1",
+    "autoload": {
+        "psr-0": { "Somelib\\Bridge\\": "" }
+    },
+    "target-dir": "Somelib",
     "require": {
         "silex/silex": "*"
     }
