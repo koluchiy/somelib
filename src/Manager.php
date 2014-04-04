@@ -1,5 +1,5 @@
 <?php
-namespace Somelib;
+namespace Somelib\Bridge;
 class Manager
 {
 
